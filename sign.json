@@ -1,0 +1,6 @@
+ {
+   "https://www.xiaohongshu.com/fe_api/burdock/qihoo/v2/search/trending": "Xd77c788895f6aaaf47b9716f0eb6da8a",
+   "https://www.xiaohongshu.com/fe_api/burdock/qihoo/v2/search/notes?keyword=%E6%89%8B%E6%9C%BA&pageSize=20&sortBy=general&page=1&needGifCover=false": "Xb78ee96dbe41e41777893792ba982899",
+   "https://www.xiaohongshu.com/fe_api/burdock/qihoo/v2/search/notes?keyword=%E6%89%8B%E6%9C%BA&page=2&pageSize=20&sortBy=general&needGifCover=false": "X2eba3a3cc87fa071c8d4ca761f650ed9",
+   "https://www.xiaohongshu.com/fe_api/burdock/qihoo/v2/search/filter?keyword=%E6%89%8B%E6%9C%BA": "Xde3f5e131f995f14a7254ce635dc696b"
+ }
